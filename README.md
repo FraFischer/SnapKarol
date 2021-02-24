@@ -1,4 +1,4 @@
-# SnapKarol
+# Snap!Karol
 Robot Karol von Uli Freiberger ist ein Tool, in dem eine kleine LEGO-Figur textuell programmiert wird
 und sich durch eine Welt bewegt. Dieses Tool wird insbesondere in bayerischen Gymnasien in
 der Jahrgangsstufe 7 zur Vermittlung der Grundkenntnisse über Algorithmik eingesetzt.
