@@ -18,4 +18,4 @@ vorgestellt. Um den Nutzen von Karol in Snap! aufzuzeigen werden einige Beispiel
 besprochen. Den Aufbau des Programmes sowie die Hintergrundprogrammierung
 werden in der Datei Anleitung.pfd vorgestellt.
 
-Die Integration von Robot Karol in Snap! ist im folgenden Projekt erfolgt: https://snap.berkeley.edu/project?user=franzirie&project=Exportieren
+Die Integration von Robot Karol in Snap! ist im folgenden Projekt erfolgt: https://snap.berkeley.edu/project?user=franzirie&project=Snap!.Karol.Vorlage
